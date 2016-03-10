@@ -1,4 +1,4 @@
-# GetAddressFromLatLng_OR_address
+# Geocoding and Reverse Geocoding.
 By using this lib,you can get Address from latlng OR lat lng from address (Geocoding and Reverse-Geocoding) both can be done in a simple way ....
 
 
